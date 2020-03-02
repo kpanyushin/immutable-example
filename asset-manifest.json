@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/immutable-example/static/css/main.73d27734.chunk.css",
+    "main.js": "/immutable-example/static/js/main.2ed7c37f.chunk.js",
+    "main.js.map": "/immutable-example/static/js/main.2ed7c37f.chunk.js.map",
+    "runtime-main.js": "/immutable-example/static/js/runtime-main.46ac6383.js",
+    "runtime-main.js.map": "/immutable-example/static/js/runtime-main.46ac6383.js.map",
+    "static/js/2.17725019.chunk.js": "/immutable-example/static/js/2.17725019.chunk.js",
+    "static/js/2.17725019.chunk.js.map": "/immutable-example/static/js/2.17725019.chunk.js.map",
+    "index.html": "/immutable-example/index.html",
+    "precache-manifest.5fa7d9b1a16a91c7f125349346b29b68.js": "/immutable-example/precache-manifest.5fa7d9b1a16a91c7f125349346b29b68.js",
+    "service-worker.js": "/immutable-example/service-worker.js",
+    "static/css/main.73d27734.chunk.css.map": "/immutable-example/static/css/main.73d27734.chunk.css.map",
+    "static/js/2.17725019.chunk.js.LICENSE.txt": "/immutable-example/static/js/2.17725019.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46ac6383.js",
+    "static/js/2.17725019.chunk.js",
+    "static/css/main.73d27734.chunk.css",
+    "static/js/main.2ed7c37f.chunk.js"
+  ]
+}
